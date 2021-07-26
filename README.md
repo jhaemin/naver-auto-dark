@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/19797697/126925692-033f2e39-31bc-486a-ab71-998d1788b05b.png" alt="icon" width="128" />
+  <img src="https://user-images.githubusercontent.com/19797697/126931683-6afad2d7-b36b-416f-8388-bdec310c7da8.png" alt="icon" width="128" />
 </p>
 
 <h1 align="center">Naver Auto Dark</h1>
