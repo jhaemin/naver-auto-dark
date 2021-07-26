@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Naver Auto Dark",
+  "version": "1.0.0",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.naver.com/"],
+      "js": ["content-script.js"]
+    }
+  ]
+}
