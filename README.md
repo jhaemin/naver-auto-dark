@@ -11,7 +11,7 @@
 
 ### Chrome Web Store
 
-> It's currently in approval process
+[Download](https://chrome.google.com/webstore/detail/naver-auto-dark/epeidedojkklofabbpbmbpogmojniiai)
 
 ### Install manually
 
