@@ -13,7 +13,7 @@ naverDarkModeButton.style.pointerEvents = 'none'
 if (isSystemDarkMode !== isNaverDarkMode) {
   setTimeout(() => {
     naverDarkModeButton.click()
-  }, 50)
+  }, 100)
 }
 
 const matchMedia = window.matchMedia('(prefers-color-scheme: dark)')
