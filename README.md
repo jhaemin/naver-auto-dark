@@ -9,13 +9,11 @@
 
 ## Installation
 
-### Chrome Web Store
-
-[Download](https://chrome.google.com/webstore/detail/naver-auto-dark/epeidedojkklofabbpbmbpogmojniiai)
+### [Install from Chrome Web Store](https://chrome.google.com/webstore/detail/naver-auto-dark/epeidedojkklofabbpbmbpogmojniiai)
 
 ### Install manually
 
-1. Download the repository.
+1. [Download the latest version.](https://github.com/jhaemin/naver-auto-dark/releases)
 2. Open `chrome://extensions` in your Chrome.
 3. Turn on **Developer mode** on top right.
 4. Click **Load unpacked** and open `extension` folder inside downloaded repository folder.
