@@ -5,9 +5,11 @@ const isNaverDarkMode =
 
 const naverDarkModeButton = document.getElementById('NM_darkmode_btn')
 
-naverDarkModeButton.style.transition = 'opacity 200ms ease'
+naverDarkModeButton.style.transition = 'opacity 1000ms ease, filter 1000ms ease, transform 1000ms ease'
 naverDarkModeButton.getBoundingClientRect()
 naverDarkModeButton.style.opacity = '0'
+naverDarkModeButton.style.filter = 'blur(8px)'
+naverDarkModeButton.style.transform = 'scale(0.9)'
 naverDarkModeButton.style.pointerEvents = 'none'
 
 if (isSystemDarkMode !== isNaverDarkMode) {
