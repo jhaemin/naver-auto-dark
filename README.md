@@ -9,7 +9,7 @@
 
 ## Installation
 
-### [Install from Chrome Web Store](https://chrome.google.com/webstore/detail/naver-auto-dark/epeidedojkklofabbpbmbpogmojniiai)
+### [Install from Chrome Web Store](https://chrome.google.com/webstore/detail/naver-auto-dark/nefmhpibpnpbgbckmadlnkmmiaceccag)
 
 ### Install manually
 
